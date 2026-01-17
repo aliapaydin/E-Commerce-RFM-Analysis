@@ -57,4 +57,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Repoyu klonlayın:
 ```bash
-git clone [https://github.com/aliapaydin/E-Commerce-RFM-Analysis.git](https://github.com/KULLANICI_ADIN/E-Commerce-RFM-Analysis.git)
+git clone [https://github.com/aliapaydin/E-Commerce-RFM-Analysis.git](https://github.com/aliapaydin/E-Commerce-RFM-Analysis.git)
